@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bem vindas ao meu perfil 👋
+Meu nome é Ana Alves
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+00001116283372sp@al.educacao.sp.gov.br
 
 <!--
 **Alav2007/Alav2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
